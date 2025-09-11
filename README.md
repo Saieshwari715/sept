@@ -21,4 +21,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Saieshwari715/sept/tree/master/0344-reverse-string) |
+| [0551-student-attendance-record-i](https://github.com/Saieshwari715/sept/tree/master/0551-student-attendance-record-i) |
 <!---LeetCode Topics End-->
