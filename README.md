@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Saieshwari715/sept/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Saieshwari715/sept/tree/master/0219-contains-duplicate-ii) |
 | [0506-relative-ranks](https://github.com/Saieshwari715/sept/tree/master/0506-relative-ranks) |
+| [0932-monotonic-array](https://github.com/Saieshwari715/sept/tree/master/0932-monotonic-array) |
 ## Hash Table
 |  |
 | ------- |
