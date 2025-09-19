@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Saieshwari715/sept/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0367-valid-perfect-square](https://github.com/Saieshwari715/sept/tree/master/0367-valid-perfect-square) |
 ## Greedy
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/Saieshwari715/sept/tree/master/0221-maximal-square) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Saieshwari715/sept/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
