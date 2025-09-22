@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Saieshwari715/sept/tree/master/0219-contains-duplicate-ii) |
+| [0389-find-the-difference](https://github.com/Saieshwari715/sept/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Saieshwari715/sept/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Saieshwari715/sept/tree/master/0389-find-the-difference) |
 | [0551-student-attendance-record-i](https://github.com/Saieshwari715/sept/tree/master/0551-student-attendance-record-i) |
 ## Binary Search
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Saieshwari715/sept/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/Saieshwari715/sept/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saieshwari715/sept/tree/master/0628-maximum-product-of-three-numbers) |
 ## Heap (Priority Queue)
@@ -59,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Saieshwari715/sept/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saieshwari715/sept/tree/master/0628-maximum-product-of-three-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Saieshwari715/sept/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
