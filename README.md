@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Saieshwari715/sept/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saieshwari715/sept/tree/master/0628-maximum-product-of-three-numbers) |
 | [0932-monotonic-array](https://github.com/Saieshwari715/sept/tree/master/0932-monotonic-array) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Saieshwari715/sept/tree/master/1001-n-repeated-element-in-size-2n-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Saieshwari715/sept/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/Saieshwari715/sept/tree/master/0389-find-the-difference) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Saieshwari715/sept/tree/master/1001-n-repeated-element-in-size-2n-array) |
 ## Sliding Window
 |  |
 | ------- |
