@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Saieshwari715/sept/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Saieshwari715/sept/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Saieshwari715/sept/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Saieshwari715/sept/tree/master/0412-fizz-buzz) |
 | [0551-student-attendance-record-i](https://github.com/Saieshwari715/sept/tree/master/0551-student-attendance-record-i) |
 ## Binary Search
 |  |
@@ -64,9 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Saieshwari715/sept/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Saieshwari715/sept/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saieshwari715/sept/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Saieshwari715/sept/tree/master/0389-find-the-difference) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Saieshwari715/sept/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
