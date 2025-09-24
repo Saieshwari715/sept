@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Saieshwari715/sept/tree/master/0064-minimum-path-sum) |
 | [0135-candy](https://github.com/Saieshwari715/sept/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Saieshwari715/sept/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Saieshwari715/sept/tree/master/0219-contains-duplicate-ii) |
@@ -57,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Saieshwari715/sept/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/Saieshwari715/sept/tree/master/0221-maximal-square) |
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Saieshwari715/sept/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/Saieshwari715/sept/tree/master/0221-maximal-square) |
 ## Math
 |  |
