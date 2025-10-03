@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Saieshwari715/sept/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Saieshwari715/sept/tree/master/0070-climbing-stairs) |
 | [0221-maximal-square](https://github.com/Saieshwari715/sept/tree/master/0221-maximal-square) |
 ## Matrix
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Saieshwari715/sept/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Saieshwari715/sept/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Saieshwari715/sept/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Saieshwari715/sept/tree/master/0415-add-strings) |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Saieshwari715/sept/tree/master/0682-baseball-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Saieshwari715/sept/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
