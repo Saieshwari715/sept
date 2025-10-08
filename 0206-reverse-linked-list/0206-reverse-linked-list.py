@@ -13,4 +13,4 @@ class Solution:
             prev=cur
             cur=temp
         return prev
-        
+        '''instead of cur use head'''
