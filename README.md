@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Saieshwari715/sept/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Saieshwari715/sept/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/Saieshwari715/sept/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/Saieshwari715/sept/tree/master/0389-find-the-difference) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Saieshwari715/sept/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Saieshwari715/sept/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Saieshwari715/sept/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Saieshwari715/sept/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Saieshwari715/sept/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Saieshwari715/sept/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Saieshwari715/sept/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Saieshwari715/sept/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -122,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Saieshwari715/sept/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Saieshwari715/sept/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Saieshwari715/sept/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Saieshwari715/sept/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Saieshwari715/sept/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
