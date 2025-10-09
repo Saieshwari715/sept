@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Saieshwari715/sept/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saieshwari715/sept/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Saieshwari715/sept/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Saieshwari715/sept/tree/master/0735-asteroid-collision) |
 | [0932-monotonic-array](https://github.com/Saieshwari715/sept/tree/master/0932-monotonic-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Saieshwari715/sept/tree/master/1001-n-repeated-element-in-size-2n-array) |
 ## Hash Table
@@ -92,11 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Saieshwari715/sept/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Saieshwari715/sept/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Saieshwari715/sept/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Saieshwari715/sept/tree/master/0735-asteroid-collision) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Saieshwari715/sept/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Saieshwari715/sept/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Saieshwari715/sept/tree/master/0735-asteroid-collision) |
 ## Memoization
 |  |
 | ------- |
