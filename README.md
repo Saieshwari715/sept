@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Saieshwari715/sept/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Saieshwari715/sept/tree/master/0064-minimum-path-sum) |
 | [0135-candy](https://github.com/Saieshwari715/sept/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Saieshwari715/sept/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Saieshwari715/sept/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Saieshwari715/sept/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Saieshwari715/sept/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Saieshwari715/sept/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Saieshwari715/sept/tree/master/0234-palindrome-linked-list) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Saieshwari715/sept/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Saieshwari715/sept/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Saieshwari715/sept/tree/master/0070-climbing-stairs) |
 | [0221-maximal-square](https://github.com/Saieshwari715/sept/tree/master/0221-maximal-square) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Saieshwari715/sept/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Saieshwari715/sept/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Saieshwari715/sept/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Saieshwari715/sept/tree/master/0735-asteroid-collision) |
@@ -132,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Saieshwari715/sept/tree/master/0146-lru-cache) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Saieshwari715/sept/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
