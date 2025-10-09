@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saieshwari715/sept/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Saieshwari715/sept/tree/master/0064-minimum-path-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Saieshwari715/sept/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/Saieshwari715/sept/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Saieshwari715/sept/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Saieshwari715/sept/tree/master/0219-contains-duplicate-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saieshwari715/sept/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Saieshwari715/sept/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/Saieshwari715/sept/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Saieshwari715/sept/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Saieshwari715/sept/tree/master/0735-asteroid-collision) |
@@ -140,4 +142,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saieshwari715/sept/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Saieshwari715/sept/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
