@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Saieshwari715/sept/tree/master/0735-asteroid-collision) |
 | [0932-monotonic-array](https://github.com/Saieshwari715/sept/tree/master/0932-monotonic-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Saieshwari715/sept/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1036-rotting-oranges](https://github.com/Saieshwari715/sept/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Saieshwari715/sept/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Saieshwari715/sept/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Saieshwari715/sept/tree/master/0221-maximal-square) |
+| [1036-rotting-oranges](https://github.com/Saieshwari715/sept/tree/master/1036-rotting-oranges) |
 ## Math
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Saieshwari715/sept/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Saieshwari715/sept/tree/master/0226-invert-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Saieshwari715/sept/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Saieshwari715/sept/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
