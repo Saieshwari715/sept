@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Saieshwari715/sept/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/Saieshwari715/sept/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Saieshwari715/sept/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0200-number-of-islands](https://github.com/Saieshwari715/sept/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Saieshwari715/sept/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Saieshwari715/sept/tree/master/0221-maximal-square) |
 | [0506-relative-ranks](https://github.com/Saieshwari715/sept/tree/master/0506-relative-ranks) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Saieshwari715/sept/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/Saieshwari715/sept/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Saieshwari715/sept/tree/master/0221-maximal-square) |
 ## Math
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Saieshwari715/sept/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Saieshwari715/sept/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/Saieshwari715/sept/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Saieshwari715/sept/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saieshwari715/sept/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Saieshwari715/sept/tree/master/0543-diameter-of-binary-tree) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Saieshwari715/sept/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Saieshwari715/sept/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/Saieshwari715/sept/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Saieshwari715/sept/tree/master/0226-invert-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Saieshwari715/sept/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -183,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saieshwari715/sept/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Saieshwari715/sept/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
