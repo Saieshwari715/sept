@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Saieshwari715/sept/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Saieshwari715/sept/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Saieshwari715/sept/tree/master/0735-asteroid-collision) |
+| [0907-koko-eating-bananas](https://github.com/Saieshwari715/sept/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/Saieshwari715/sept/tree/master/0932-monotonic-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Saieshwari715/sept/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1036-rotting-oranges](https://github.com/Saieshwari715/sept/tree/master/1036-rotting-oranges) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Saieshwari715/sept/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/Saieshwari715/sept/tree/master/0367-valid-perfect-square) |
+| [0907-koko-eating-bananas](https://github.com/Saieshwari715/sept/tree/master/0907-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
