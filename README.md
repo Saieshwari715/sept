@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/Saieshwari715/sept/tree/master/0932-monotonic-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Saieshwari715/sept/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1036-rotting-oranges](https://github.com/Saieshwari715/sept/tree/master/1036-rotting-oranges) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Saieshwari715/sept/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Saieshwari715/sept/tree/master/0221-maximal-square) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Saieshwari715/sept/tree/master/0417-pacific-atlantic-water-flow) |
 | [1036-rotting-oranges](https://github.com/Saieshwari715/sept/tree/master/1036-rotting-oranges) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Saieshwari715/sept/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Saieshwari715/sept/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/Saieshwari715/sept/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Saieshwari715/sept/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Saieshwari715/sept/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Saieshwari715/sept/tree/master/0417-pacific-atlantic-water-flow) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Saieshwari715/sept/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Saieshwari715/sept/tree/master/1036-rotting-oranges) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Saieshwari715/sept/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -198,4 +202,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Saieshwari715/sept/tree/master/0200-number-of-islands) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Saieshwari715/sept/tree/master/1663-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
